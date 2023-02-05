@@ -5,4 +5,4 @@ This is demo project to setup
 # Sigleton class 
 # Picassso
 # DiffUtil Adapter
-
+# DataBinding
